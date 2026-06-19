@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Francisco Liu
 
-<!--
-**pancholiu/pancholiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Salesforce Engineer based in Canada, with 7 Salesforce certifications and strong experience in enterprise-scale Salesforce environments, Gearset, Git, deployment management, code reviews, and production troubleshooting.
 
-Here are some ideas to get you started:
+I focus on solving complex Salesforce problems, improving release processes, mentoring developers, and building stable, maintainable platform solutions. I'm also developing full-stack personal projects with FastAPI, React, TypeScript, Python, and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Skills
+
+- Salesforce: Apex, LWC, Aura, Visualforce, SOQL, Flows, Custom Metadata
+- DevOps & Release Management: Gearset, Git, deployment validation, environment comparison, release coordination
+- Backend & APIs: FastAPI, Python, REST APIs, request/response modeling, API integration
+- Frontend: React, TypeScript
+- Engineering Practices: Root cause analysis, code reviews, technical documentation, stakeholder collaboration
+
+## Currently Working On
+
+- Improving my Salesforce engineering profile for enterprise and product engineering roles
+- Building personal full-stack projects with FastAPI, React, TypeScript, and REST APIs
+- Strengthening software engineering practices beyond the Salesforce ecosystem
