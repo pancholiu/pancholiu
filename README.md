@@ -38,13 +38,12 @@ I'm also building full-stack personal projects using **FastAPI, React, TypeScrip
 
 ### 2nd Opinion – AI-Powered Debate App
 
-A private full-stack product project designed to help users make better decisions by comparing multiple AI-generated perspectives instead of relying on a single response.
+A private full-stack product project designed to help users make better decisions by comparing multiple AI-generated perspectives instead of relying on a single response making to the different AIs to debate between them
 
 **Tech:** FastAPI, React, TypeScript, Python, REST APIs, LLM integrations
 
-> Source code is private while the product is under active development. A public case study may be added separately.
-
----
+This project is still in beta
+https://glistening-connection-production.up.railway.app/
 
 ## 📌 Focus Areas
 
