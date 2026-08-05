@@ -9,7 +9,7 @@ I'm also building full-stack personal projects using **FastAPI, React, TypeScrip
 
 ---
 
-## 🧩 What I Do
+## What I Do
 
 * Resolve complex Salesforce production issues across Apex, LWC, Flows, permissions, and integrated systems
 * Support enterprise-scale Salesforce environments through root cause analysis and technical remediation
@@ -19,7 +19,7 @@ I'm also building full-stack personal projects using **FastAPI, React, TypeScrip
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-1798C1?style=for-the-badge\&logo=salesforce\&logoColor=white)
@@ -35,7 +35,7 @@ I'm also building full-stack personal projects using **FastAPI, React, TypeScrip
 
 ---
 
-## 🚀 Currently Building
+## Currently Building
 
 ### 2nd Opinion – AI-Powered Debate App
 
@@ -46,7 +46,7 @@ A private full-stack product project designed to help users make better decision
 This project is still in beta
 https://glistening-connection-production.up.railway.app/
 
-## 📌 Focus Areas
+## Focus Areas
 
 * Salesforce platform engineering
 * Apex, LWC, Flows, and integrated systems
