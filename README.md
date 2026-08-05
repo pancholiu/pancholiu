@@ -39,9 +39,9 @@ I'm also building full-stack personal projects using **FastAPI, React, TypeScrip
 
 ### 2nd Opinion – AI-Powered Debate App
 
-A private full-stack product project designed to help users make better decisions by comparing multiple AI-generated perspectives instead of relying on a single response making to the different AIs to debate between them
+A private full-stack product project designed to help users make better decisions. The ultimate goal is to see in case if 2 AI models have different opinions regarding what the user ask/comment. Make tohse models debate each other until they came to an agreement about what would be the best answer
 
-**Tech:** FastAPI, React, TypeScript, Python, REST APIs, LLM integrations
+**Tech:** FastAPI, React, TypeScript, Python, REST APIs, LLM integrations, Docker
 
 This project is still in beta
 https://glistening-connection-production.up.railway.app/
