@@ -53,6 +53,7 @@ https://glistening-connection-production.up.railway.app/
 * Gearset, Git, deployments, and release management
 * Code reviews and developer mentoring
 * REST API design and full-stack product development
+* Learning AI engineering fundamentals, LLM integrations, and AI-powered application design
 
 ---
 
