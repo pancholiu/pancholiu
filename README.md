@@ -1,7 +1,7 @@
 # Hi, I'm Francisco Liu 👋
 
 **Senior Salesforce Engineer based in Canada**
-7x Salesforce Certified | Apex | LWC | Gearset | Git | Enterprise Salesforce Delivery
+8x Salesforce Certified | Apex | LWC | Gearset | Git | Enterprise Salesforce Delivery
 
 I specialize in solving complex Salesforce production issues, improving release processes, supporting deployment strategies, mentoring developers, and helping teams deliver stable, maintainable platform solutions.
 
