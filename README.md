@@ -1,4 +1,4 @@
-# Hi, I'm Francisco Liu 👋
+# Hi, I'm Francisco Liu 
 
 **Senior Salesforce Engineer based in Canada**
 8x Salesforce Certified | Apex | LWC | Gearset | Git | Enterprise Salesforce Delivery
